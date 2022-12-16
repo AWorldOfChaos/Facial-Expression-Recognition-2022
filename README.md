@@ -72,7 +72,7 @@ To-Do:
 
 1. Exploring Facial Motion Prior Networks (FMPN). Particularly, introducing an additional branch to generate a facial mask so as to focus on facial muscle-moving regions. 
 2. Explore attentional convolutional networks to focus on particular parts of the face. This is particularly useful as it does not require domain knowledge like in (1) above.
-3. Generating ********Compact Embeddings for Facial Expression Similarity. Embedding spaces are particularly useful to determine feature similarity for classification tasks
+3. Generating Compact Embeddings for Facial Expression Similarity. Embedding spaces are particularly useful to determine feature similarity for classification tasks
 
 ## Resources
 
