@@ -8,4 +8,5 @@ Week 0 Tasks:
 Week 1 Tasks:
     Splitting the data
     Running a Linear Regression
-    Running a Logistic Regression
+    Running a Logistic Regression(Left in between as time is low)
+    CNN done,(without any hidden layers) for MNIST, with approx 92% accuracy
