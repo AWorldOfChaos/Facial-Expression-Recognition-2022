@@ -15,14 +15,10 @@ Facial expression recognition is the task of classifying the expressions on faci
 Facial expression emotion recognition is an intuitive reflection of a person’s mental state, which contains rich emotional information, and is one of the most important forms of interpersonal communication. It can be used in various fields, including psychology. As a celebrity in ancient China, Zeng Guofan’s wisdom involves facial emotion recognition techniques. His book Bing Jian summarizes eight methods on how to identify people, especially how to choose the right one, which means “look at the eyes and nose for evil and righteousness, the lips for truth and falsehood; the temperament for success and fame, the spirit for wealth and fortune; the fingers and claws for ideas, the hamstrings for a setback; if you want to know his consecution, you can focus on what he has said.” It is said that a person’s personality, mind, goodness, and badness can be shown by his face.
 
 ## Mentees
-
-- Tamojeet Roychowdhury
-- Tanay Tayal
-- Harsh Raj
 - Aastha Sancheti
 - Shlesh Gholap
-- Dhruv Kothari
-- Pal Aggarwal
+- Tamojeet Roychowdhury
+- Tanay Tayal
 
 ---
 
